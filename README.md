@@ -17,7 +17,7 @@ A simple RESTful API built with Flask for managing tasks. This project demonstra
 
 ## 📦 Setup Instructions
 1. Clone the repo:
- git clone https://github.com/your-username/task-manager-api.git
+ git clone https://github.com/hafsab6l/Task-Manager-API.git
 2. Install dependencies:
      `
    pip install -r requirements.txt
