@@ -30,8 +30,7 @@ A simple RESTful API built with Flask for managing tasks. This project demonstra
 A minimal HTML/JS interface adapted from community resources. Debugged and customized to connect with the Flask API.
 
 ## 📸 Demo
-- [Watch Demo Video](#)
-- Screenshots available in `/screenshots` folder
+- Screenshots and videos available in `/screenshots` folder
 
 ## 🧠 What I Learned
 - Handling HTTP errors (e.g., 415 Unsupported Media Type)
